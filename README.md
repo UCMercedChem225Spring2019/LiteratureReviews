@@ -3,6 +3,12 @@ This repository contains notes on a selection of quantum chemistry (and related 
 
 The list below tabulates the set of papers discussed by the class, the lead presenter, and the assigned scribe. The lead presenter provides the first draft Wiki entry and presents that perspective to the class to initialize group discussion. The scribe takes care to appropriately modify the draft Wiki entry to fully capture the class's discussion of the paper.
 
+
+- __2/13/2019 | Scribe: Y. Gluzman__
+  - B. Chan, J. Deng, and L. Radom, "G4 (MP2)-6x: A cost-effective improvement to G4 (MP2)", _J. Chem. Theory Comput._ __7__, 112–120 (2010). DOI:[10.1021/ct100542x](http://doi.org/10.1021/ct100542x).
+  - A. P. Scott and L. Radom, "Harmonic Vibrational Frequencies:  An Evaluation of Hartree−Fock, Møller−Plesset, Quadratic Configuration Interaction, Density Functional Theory, and Semiempirical Scale Factors" _J. Phys. Chem._ __100__, 16502-16513 (1996). DOI: [10.1021/jp960976r](http://doi.org/10.1021/jp960976r).
+  - J. A. Pople, "Electronic states and wave functions associated with orbital energy crossing", _Int. J. Quantum Chem._ __5(S5)__, 175–182 (1979). DOI:[10.1002/qua.560050823](http://doi.org/10.1002/qua.560050823).
+
 - __2/6/2019 | Scribe: Y. Gluzman__
   - J. Martin, J. Baker, and P. Pulay,"Comments on the molecular geometry of ferrocene: The dangers of using quantum chemistry programs as black boxes", _J. Comp. Chem._ __30__, 881-883 (2009). DOI: [10.1002/jcc.21106](http://doi.org/10.1002/jcc.21106).
     - __Lead Presenter: V. Martinetto__
