@@ -3,15 +3,15 @@ This repository contains notes on a selection of quantum chemistry (and related 
 
 The list below tabulates the set of papers discussed by the class, the lead presenter, and the assigned scribe. The lead presenter provides the first draft Wiki entry and presents that perspective to the class to initialize group discussion. The scribe takes care to appropriately modify the draft Wiki entry to fully capture the class's discussion of the paper.
 
-- __2/20/2019 | Scribe: TBD__
+- __2/20/2019 | Scribe: V. Martinetto__
   - R. Hoffmann, S. Shaik, S., and P. C. Hiberty, "A Conversation on VB vs MO Theory: A Never-Ending Rivalry?", _Acc. Chem. Res._ __36__, 750–756 (2003). DOI:  [10.1021/ar030162a](http://doi.org/10.1021/ar030162a).
-    - __Lead Presenter: TBD__
+    - __Lead Presenter: Y. Gluzman__
   - R. Hoffmann, P. v. R. Schleyer, and H. F. Schaefer, "Predicting Molecules—More Realism, Please!", _Angew. Chem. Int. Ed._ __47__, 7164–7167 (2008). DOI:  [10.1002/anie.200801206](http://doi.org/10.1002/anie.200801206).
-    - __Lead Presenter: TBD__
+    - __Lead Presenter: K. Ranka__
   - R. Hoffmann, "Editorial: What, Another Nobel Prize in Chemistry to a Nonchemist?", _Angew. Chem. Int. Ed._ __51__, 1734–1735 (2012). DOI:  [10.1002/anie.201108514](http://doi.org/10.1002/anie.201108514)
-    - __Lead Presenter: TBD__
+    - __Lead Presenter: J. Debow__
   - R. Hoffmann, "A Claim on the Development of the Frontier Orbital Explanation of Electrocyclic Reactions", _Angew. Chem. Int. Ed._ __43__, 6586–6590 (2004). DOI:  [10.1002/anie.200461440](http://doi.org/10.1002/anie.200461440)
-    - __Lead Presenter: TBD__
+    - __Lead Presenter: A. Zamani__
 
 - __2/13/2019 | Scribe: Y. Gluzman__
   - B. Chan, J. Deng, and L. Radom, "G4 (MP2)-6x: A cost-effective improvement to G4 (MP2)", _J. Chem. Theory Comput._ __7__, 112–120 (2010). DOI:[10.1021/ct100542x](http://doi.org/10.1021/ct100542x).
