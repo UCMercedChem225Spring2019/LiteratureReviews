@@ -165,3 +165,29 @@
   annote = {Hoffman discusses a contentious matter--the development of a frontier orbital explanation of electrocyclic reactions.  Hoffman inferred that the orbital symmetry of the HOMO was somehow important to describe these types of reactions. He then consulted E.J.Corey and R. B. Woodward at various stages in the development of this model. Arguments about how their professional relationships affected the attribution of credit are discussed.},
   keywords = {Woodward; Hoffman; Corey; electrocyclic reactions; frontier orbitals; orbital symmetry; pericyclic reactions; history of science; theoretical chemistry},
 }
+
+@article{Pulay:1980a,
+  author = {Pulay},
+  title = {{CONVERGENCE ACCELERATION OF ITERATWE SEQUENCES. THE CASE OF SCF ITERATION}},
+  journal = {Chemical Physical letters},
+  year = {1980},
+  volume = {73},
+  number = {2},
+  pages = {393-398},
+  doi = {10.1016/0009-2614(80)80396-4}
+  annote = {This paper introduces a method for accelerating SCF convergence. The proposed  technique is called Direct Inversion of the Iterative Subspace (DIIS). DIIS minimizes the norm of the error vector via a least squares condition and utilizes a Lagrangian (with the constraint that the sum of the coefficients must be one for an exact solution). Setting the derivative of the Lagrangian with respect to the expansion coefficients equal to zero results in a system of linear equations with the unknown multipliers can be solved.},
+  keywords = {Direct Inversion of the Iterative Subspace; DIIS; SCF; Lagrangian; Least Squares; error vector; Convergence},
+}
+
+@article{Alml\"{o}f:1982a,
+  author = {Alml\"{o}f, Faegri, Korsell},
+  title = {{Principles for a Direct SCF Approach to LCAO-MO Ab-lnitio Calculations}},
+  journal = {Journal of Computational Chemistry},
+  year = {1982},
+  volume = {3},
+  number = {3},
+  pages = {388-395},
+  doi = {10.1002/jcc.540030314},
+  annote = {The computational bottleneck for ab-initio electronic structure methods involves the large number of integrals that need to be solved. In order to minimize the number of iterations required, the Direct Self-Consistent Field method essentially recalculates the two-electron integrals batch-wise instead of storing them in memory. Direct methods take advantage of symmetries that arise out of identical integrals with permuted indices. Algorithms for Direct SCF can be restructured for maximum CPU efficiency--integrals can be calculated and applied to the extent they are needed instead of being retrieved from storage. Another advantage of the batch calculations is that the magnitude of the integrals can be estimated and a test function may be used to filter the necessary computations ("Clearly, if all density matrix elements used to multiply a certain integral are sufficiently small, then the corresponding contributions to the Fock matrix (and the energy) are insignificant, and it is unnecessary to evaluate this integral"). As computer hardware improves, the time it takes for SCF convergence can be further reduced.},
+  keywords = {Computational Bottleneck; CPU efficiency; Direct Methods; Direct SCF; two-electron integrals; algorithm reconstruction; symmetries; quadratically convergent Hartree-Fock method},
+}
