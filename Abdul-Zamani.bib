@@ -191,3 +191,16 @@
   annote = {The computational bottleneck for ab-initio electronic structure methods involves the large number of integrals that need to be solved. In order to minimize the number of iterations required, the Direct Self-Consistent Field method essentially recalculates the two-electron integrals batch-wise instead of storing them in memory. Direct methods take advantage of symmetries that arise out of identical integrals with permuted indices. Algorithms for Direct SCF can be restructured for maximum CPU efficiency--integrals can be calculated and applied to the extent they are needed instead of being retrieved from storage. Another advantage of the batch calculations is that the magnitude of the integrals can be estimated and a test function may be used to filter the necessary computations ("Clearly, if all density matrix elements used to multiply a certain integral are sufficiently small, then the corresponding contributions to the Fock matrix (and the energy) are insignificant, and it is unnecessary to evaluate this integral"). As computer hardware improves, the time it takes for SCF convergence can be further reduced.},
   keywords = {Computational Bottleneck; CPU efficiency; Direct Methods; Direct SCF; two-electron integrals; algorithm reconstruction; symmetries; quadratically convergent Hartree-Fock method},
 }
+
+@article{Davidson:1975a,
+  author = {Davidson, Ernest R},
+  title = {{The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real symmetric matrices}},
+  journal = {Journal of Computational Physics},
+  year = {1975},
+  volume = {17},
+  number = {1},
+  pages = {7},
+  doi = {10.1016/0021-9991(75)90065-0},
+  annote = {Because many terms in the full configuration interaction expansion go to zero (as a consequence of Brillouin's theorem), what is left to build are sparse, symmetric matrices with real eigenvalues. This paper discusses the advantages and shortcomings of a widely used algorithm for computing the lowest or a few of the lowest eigenvalues called the root-shifting optimal-relaxation (MOR) procedure developed by Shavitt, Bender, Pipano, and Hosteny. The inclusion of small, analytically derived procedures can improve the efficiency of the eigenvalue search below a certain threshold and accelerate "selective" convergence. Davidson's "compromise" approach converges reasonably even with the presence of near degenerate eigenvalues due to the reduced number of iterations.},
+  keywords = {root-shifting optimal-relaxation; MOR; lowest eigenvalue; Lanczos Method; sparse matrix; configuration interaction; degenerate eigenvalues; convergence},
+}
