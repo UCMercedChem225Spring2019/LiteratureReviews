@@ -203,3 +203,14 @@
   annote = {In this paper, the authors extend the SCF approach to simultaneous optimization of geometry and wave function. They stated the theory how to minimize the energy in the finite basis HF method, subject to maintaining MO orthonromality. They also implemented the algorithm for simultaneous optimization of geometry and wave function, which is dominated by the matrix multiplies, and accordingly requires only O(N3) flops. Furthermore, they provided some examples to show the simultaneous optimization procedure is competitive and converges in significantly fewer total iterations. Since the balance will change in the context of the direct SCF method, the reduction in total iteration count will be much more beneficial, which the simultaneous optimization can offer.},
   keywords = {orthogonalization, HF, simultaneous optimization, direct SCF method}，
 }
+
+@article{Davidson:1975a,
+  title={The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real-symmetric matrices},
+  author={ER, Davidson},
+  journal={Journal of Computational Physics},
+  volume={17},
+  pages={87--94},
+  year={1975},
+  annote = {The author offers a new iteration method to solve eigen problems of matrices, which ccould be an improvement of Lanczos' method. Even though the iteration time does not change, the steps of iteration to the convergence was reduced significantly, which accelaratie the total computational process. The method requires very good initial guess. It can be used to find higher eigenvalues directly without finding accurate values for lower eigenvalues. It also works for exactly degenerate roots. It is good for large matrices in, for example, CI prooblems. },
+  keywords = {CI, iteration, fast convergence, degenerate states, large matrices},
+}

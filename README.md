@@ -4,6 +4,10 @@ This repository contains notes on a selection of quantum chemistry (and related 
 The list below tabulates the set of papers discussed by the class, the lead presenter, and the assigned scribe. The lead presenter provides the first draft Wiki entry and presents that perspective to the class to initialize group discussion. The scribe takes care to appropriately modify the draft Wiki entry to fully capture the class's discussion of the paper.
 
 
+- __3/13/2019 | Scribe: K. Ranka__
+  - E. R. Davidson, "The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real-symmetric matrices", _J. Comput. Phys._ __17__, 78-84 (1975). DOI: [10.1016/0021-9991(75)90065-0](https://doi.org/10.1016/0021-9991(75)90065-0).
+    - __Lead Presenter: H. Hong__
+
 - __2/27/2019 | Scribe: A. Khanna__
   - P. Pulay, "Convergence acceleration of iterative sequences. the case of scf iteration", _Chem. Phys. Lett._ __73__, 393-398 (1980). DOI:  [10.1016/0009-2614(80)80396-4](https://doi.org/10.1016/0009-2614(80)80396-4).
   - J. Almlöf, K. Faegri, and K. Korsell, "Principles for a direct SCF approach to LICAO–MOab‐initio calculations", _J. Comput. Chem._ __3__, 385–399 (1982). DOI:  [10.1002/jcc.540030314](http://doi.org/10.1002/jcc.540030314)
