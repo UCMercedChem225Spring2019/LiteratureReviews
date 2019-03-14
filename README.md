@@ -8,9 +8,11 @@ The list below tabulates the set of papers discussed by the class, the lead pres
   - E. R. Davidson, "The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real-symmetric matrices", _J. Comput. Phys._ __17__, 78-84 (1975). DOI: [10.1016/0021-9991(75)90065-0](https://doi.org/10.1016/0021-9991(75)90065-0).
     - __Lead Presenter: H. Hong__
 
-- __2/27/2019 | Scribe: A. Khanna__
-  - P. Pulay, "Convergence acceleration of iterative sequences. the case of scf iteration", _Chem. Phys. Lett._ __73__, 393-398 (1980). DOI:  [10.1016/0009-2614(80)80396-4](https://doi.org/10.1016/0009-2614(80)80396-4).
+- __3/6/2019 | Scribe: A. Khanna__
   - J. Almlöf, K. Faegri, and K. Korsell, "Principles for a direct SCF approach to LICAO–MOab‐initio calculations", _J. Comput. Chem._ __3__, 385–399 (1982). DOI:  [10.1002/jcc.540030314](http://doi.org/10.1002/jcc.540030314)
+
+- __2/27/2019 | Scribe: B. Harding__
+  - P. Pulay, "Convergence acceleration of iterative sequences. the case of scf iteration", _Chem. Phys. Lett._ __73__, 393-398 (1980). DOI:  [10.1016/0009-2614(80)80396-4](https://doi.org/10.1016/0009-2614(80)80396-4).
 
 - __2/20/2019 | Scribe: V. Martinetto__
   - R. Hoffmann, S. Shaik, S., and P. C. Hiberty, "A Conversation on VB vs MO Theory: A Never-Ending Rivalry?", _Acc. Chem. Res._ __36__, 750–756 (2003). DOI:  [10.1021/ar030162a](http://doi.org/10.1021/ar030162a).
