@@ -189,7 +189,7 @@ keywords = {fundamental frequency; harmonic approximation; frequency scaling fac
   pages = {388-395},
   doi = {10.1002/jcc.540030314},
   annote = {The authors describe their implementation of an efficient direct SCF method, which makes use of multiple criteria encompassing inexpensive calculation of integrals by avoiding calculation of those with insignificant contribution, Fock matrix update schemes, matrix-blocking through the use of molecular symmetry, etc. The authors plot a distribution of magnitude of integrals versus their number in the cases of different test molecules.},
-  keywords = {direct SCF; 2-electron integrals; DISCO; SCF convergence; symmetry-blocking},
+  keywords = {direct SCF; 2-electron integrals; DISCO; SCF convergence; symmetry-blocking; direct methods},
 }
 
 @article{HeadGordon:1988c,
@@ -216,5 +216,18 @@ keywords = {fundamental frequency; harmonic approximation; frequency scaling fac
   doi = {10.1016/0021-9991(75)90065-0},
   annote = {The author suggests a method that suggests a compromise between the rapidly converging optimal relaxation method with an approximate optimization technique due to Lanczos, using an educated guess for eigenvectors of the matrix of interest (assumed to be of high dimensios). This method is shown to prove fast, and overcomes the problems posed by near degeneracy of eigenvalues of the exact matrix.},
   keywords = {matrix diagonalization; subspace expansion; configuration interaction; root-shifting; Davidson diagonalization; Lanczos method; optimal relaxation},
+}
+
+@article{Head-Gordon:1988a,
+  author = {Head-Gordon, Pople, and Frisch},
+  title = {{MP2 Energy Evaluation by Direct Methods}},
+  journal = {Chemical Physics Letters},
+  year = {1988},
+  volume = {153},
+  number = {6},
+  pages = {503-506},
+  doi = {10.1016/0009-2614(88)85250-3},
+  annote = {The authors present a way to implement MP2 theory in a direct manner, (re-)calculating 2-electron integrals on the fly. This is somewhat analogous to direct methods for SCF. The authors manage to reduce the memory usage by making use of the fact that the space spanned by occupied orbital functions is typically much smaller than that spanned by the unoccupied (virtual) orbital functions. The authors claim that this renders MP2 calculations on moderately large molecules feasible, assuming constrained usage of disk-space storage.},
+  keywords = {direct MP2; quarter-transformation; 2-electron integrals; direct methods},
 }
 
