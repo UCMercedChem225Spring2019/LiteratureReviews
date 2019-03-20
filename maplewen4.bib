@@ -214,3 +214,14 @@
   annote = {The author offers a new iteration method to solve eigen problems of matrices, which ccould be an improvement of Lanczos' method. Even though the iteration time does not change, the steps of iteration to the convergence was reduced significantly, which accelaratie the total computational process. The method requires very good initial guess. It can be used to find higher eigenvalues directly without finding accurate values for lower eigenvalues. It also works for exactly degenerate roots. It is good for large matrices in, for example, CI prooblems. },
   keywords = {CI, iteration, fast convergence, degenerate states, large matrices},
 }
+
+@article{Head-Gordon1988a,
+  title={MP2 energy evaluation by direct methods},
+  author={Head-Gordon, Martin and Pople, John A. and Frisch, Michael J.},
+  journal={Chemical Physics Letters},
+  volume={153},
+  pages={503--506},
+  year={1988},
+  annote = {Conventionally all two-electron repulsion integrals (ERIs) are calculated once and held on disk, which could be a limitation for small disk space and I/O rate. In this paper, the authors address the direct method in which the ERIs are not stored but are instead recomputed as needed, to second-order Moller-Plesset perturbation theory (MP2). In the algorithm, the N^3 storage can be reduced if the second and third partial transformations are performed before all (iv/lambda sigma) are generated and the new storage becomes OVN. If all i are treated in a single batch, the ERIs are evaluated only once, but quartic storage of 0.5O^2VN. The paper tests the mothed for a fixed amount of memory. As the job gets larger, the number of batches rises and multiple ERI evaluations are necessary. If OVN > C. the algorithm fails. The jobs perfomred with the new algorithm is faster than non-direct SCF and disk-based MP2 job. Direct MP2 calculations on large molecules are feasible and practical. },
+  keywords = {MP2, direct method, two-electron repulsion integral, memory limitation, Hartree-Fock},
+}
