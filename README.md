@@ -4,7 +4,7 @@ This repository contains notes on a selection of quantum chemistry (and related 
 The list below tabulates the set of papers discussed by the class, the lead presenter, and the assigned scribe. The lead presenter provides the first draft Wiki entry and presents that perspective to the class to initialize group discussion. The scribe takes care to appropriately modify the draft Wiki entry to fully capture the class's discussion of the paper.
 
 
-- __3/20/2019 | Scribe: TBA__
+- __3/20/2019 | Scribe: J. Cantrell__
   - M. Head-Gordon, J. A. Pople, and M. J. Frisch, "MP2 Energy Evaluation by Direct Methods", _Chem. Phys. Lett._ __153__, 503-506 (1988). DOI:  [10.1016/0009-2614(88)85250-3](https://doi.org/10.1016/0009-2614(88)85250-3).
     - __Lead Presenter: TBA__
 
