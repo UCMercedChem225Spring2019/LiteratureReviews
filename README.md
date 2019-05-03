@@ -4,8 +4,8 @@ This repository contains notes on a selection of quantum chemistry (and related 
 The list below tabulates the set of papers discussed by the class, the lead presenter, and the assigned scribe. The lead presenter provides the first draft Wiki entry and presents that perspective to the class to initialize group discussion. The scribe takes care to appropriately modify the draft Wiki entry to fully capture the class's discussion of the paper.
 
 - __5/1/2019 | Scribe: H. Hong__
-  - J. Daniel Gezelter, "Open Source and Open Data Should Be Standard Practices", _J. Phys. Chem. Lett._ __6__, 1168-1169 (2015). DOI: [10.1021/acs.jpclett.5b00285](https://doi.org/10.1021/acs.jpclett.5b00285)
-  - A. I. Krylov, J. M. Herbert, F. Furche, M. Head-Gordon, P. J. Knowles, R. Lindh, F. R. Manby, P. Pulay, C.-K. Skylaris, and H.-J. Werner, "What Is the Price of Open-Source Software?", _J. Phys. Chem. Lett._ __6__, 2751-2754 (2015). DOI: [10.1021/acs.jpclett.5b01258](https://doi.org/10.1021/acs.jpclett.5b01258)
+  - J. D. Gezelter, "Open Source and Open Data Should Be Standard Practices", _J. Phys. Chem. Lett._ __6__, 1168-1169 (2015). DOI: [10.1021/acs.jpclett.5b00285](https://doi.org/10.1021/acs.jpclett.5b00285).
+  - A. I. Krylov, J. M. Herbert, F. Furche, M. Head-Gordon, P. J. Knowles, R. Lindh, F. R. Manby, P. Pulay, C.-K. Skylaris, and H.-J. Werner, "What Is the Price of Open-Source Software?", _J. Phys. Chem. Lett._ __6__, 2751-2754 (2015). DOI: [10.1021/acs.jpclett.5b01258](https://doi.org/10.1021/acs.jpclett.5b01258).
 
 - __3/20/2019 | Scribe: J. Cantrell__
   - M. Head-Gordon, J. A. Pople, and M. J. Frisch, "MP2 Energy Evaluation by Direct Methods", _Chem. Phys. Lett._ __153__, 503-506 (1988). DOI:  [10.1016/0009-2614(88)85250-3](https://doi.org/10.1016/0009-2614(88)85250-3).
@@ -16,7 +16,7 @@ The list below tabulates the set of papers discussed by the class, the lead pres
     - __Lead Presenter: H. Hong__
 
 - __3/6/2019 | Scribe: A. Khanna__
-  - J. Almlöf, K. Faegri, and K. Korsell, "Principles for a direct SCF approach to LICAO–MOab‐initio calculations", _J. Comput. Chem._ __3__, 385–399 (1982). DOI:  [10.1002/jcc.540030314](https://doi.org/10.1002/jcc.540030314)
+  - J. Almlöf, K. Faegri, and K. Korsell, "Principles for a direct SCF approach to LICAO–MOab‐initio calculations", _J. Comput. Chem._ __3__, 385–399 (1982). DOI:  [10.1002/jcc.540030314](https://doi.org/10.1002/jcc.540030314).
 
 - __2/27/2019 | Scribe: B. Harding__
   - P. Pulay, "Convergence acceleration of iterative sequences. the case of scf iteration", _Chem. Phys. Lett._ __73__, 393-398 (1980). DOI:  [10.1016/0009-2614(80)80396-4](https://doi.org/10.1016/0009-2614(80)80396-4).
@@ -26,9 +26,9 @@ The list below tabulates the set of papers discussed by the class, the lead pres
     - __Lead Presenter: Y. Gluzman__
   - R. Hoffmann, P. v. R. Schleyer, and H. F. Schaefer, "Predicting Molecules—More Realism, Please!", _Angew. Chem. Int. Ed._ __47__, 7164–7167 (2008). DOI:  [10.1002/anie.200801206](https://doi.org/10.1002/anie.200801206).
     - __Lead Presenter: K. Ranka__
-  - R. Hoffmann, "Editorial: What, Another Nobel Prize in Chemistry to a Nonchemist?", _Angew. Chem. Int. Ed._ __51__, 1734–1735 (2012). DOI:  [10.1002/anie.201108514](https://doi.org/10.1002/anie.201108514)
+  - R. Hoffmann, "Editorial: What, Another Nobel Prize in Chemistry to a Nonchemist?", _Angew. Chem. Int. Ed._ __51__, 1734–1735 (2012). DOI:  [10.1002/anie.201108514](https://doi.org/10.1002/anie.201108514).
     - __Lead Presenter: J. Debow__
-  - R. Hoffmann, "A Claim on the Development of the Frontier Orbital Explanation of Electrocyclic Reactions", _Angew. Chem. Int. Ed._ __43__, 6586–6590 (2004). DOI:  [10.1002/anie.200461440](https://doi.org/10.1002/anie.200461440)
+  - R. Hoffmann, "A Claim on the Development of the Frontier Orbital Explanation of Electrocyclic Reactions", _Angew. Chem. Int. Ed._ __43__, 6586–6590 (2004). DOI:  [10.1002/anie.200461440](https://doi.org/10.1002/anie.200461440).
     - __Lead Presenter: A. Zamani__
 
 - __2/13/2019 | Scribe: Y. Gluzman__
